@@ -27,3 +27,9 @@ The Thunk Middleware was applied to createStore method as the last argument.
 The Thunk Middleware allowed us to return actions as functions and not as plain objects. 
 This is really robust as now we can make API calls and perform some advance logic. We then used store.dispatch() method to trigger the necessary action. 
 Why performing other logic is left for the store.subscribe() method to handle.
+
+
+## Read Full Article
+
+https://joint-access-programmer.com/redux-asynchronous-actions-thunk-custom-middleware/
+
